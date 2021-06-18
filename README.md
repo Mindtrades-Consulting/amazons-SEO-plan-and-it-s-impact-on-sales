@@ -10,7 +10,9 @@ Using the Selenium module and Python, all the data is scraped from hundreds of p
 ●              Carry-On Luggage
 ●              Antitheft Keyless Entry System
 ●              Acoustic Guitar Stands & Hangers
+
 We'll scrap all the data we can from non-sponsored, ranked products.To have better results and cleaner data to handle, we'll be saving our work, non-processed data into JSON, and we'll scrap our products procedurally:
+
 ●              Product listings > listing_scraper.py
 ●              roduct posts > product_scraper.py
 ●              Product ranking > bsr.py
@@ -24,5 +26,5 @@ The data visualisation is interesting as it will help find relationships and tre
 After analyzing the visuals, it is safe to say that the reviews and questions overlap. However, this is not always the case. There are also a few products that showcase low or no correlation between their ranking and overlap. Therefore, we can say that SEO for products and titles will help boost the rank of products, but this is not the sole cause of their current ranking.
 
 # How Can MindTrades help?
-MindTrades Consulting Services, a leading marketing agency provides in-depth analysis and insights for the global IT sector including leading data integration brands such as Diyotta. From Cloud Migration, Big Data, Digital Transformation, Agile Deliver, Cyber Security, to Analytics- Mind trades provides published breakthrough ideas, and prompt content delivery. For more information, check [mindtrades.com].
+MindTrades Consulting Services, a leading marketing agency provides in-depth analysis and insights for the global IT sector including leading data integration brands such as Diyotta. From Cloud Migration, Big Data, Digital Transformation, Agile Deliver, Cyber Security, to Analytics- Mind trades provides published breakthrough ideas, and prompt content delivery. For more information, check [https://www.mindtrades.com].
 
